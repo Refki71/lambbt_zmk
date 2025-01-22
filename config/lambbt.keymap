@@ -68,10 +68,10 @@
             bindings = <
         //╭──────────┬──────────┬──────────┬──────────┬──────────╮   ╭──────────┬──────────┬──────────┬──────────┬──────────╮
         //│          │    @     │    $     │    {     │    }     │   │    !     │    &     │   UP     │   ~      │    '     │
-            &kp PGUP   &kp AT    &kp DLLR     &kp LBRC   &kp RBRC      &kp EXCL  &kp AMPS   &kp UP   &kp TILDE   &kp SQT
+            &kp PG_UP   &kp AT    &kp DLLR     &kp LBRC   &kp RBRC      &kp EXCL  &kp AMPS   &kp UP   &kp TILDE   &kp SQT
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
         //│          │   ^      │    %     │    (     │  )       │   │ *        │ LEFT     │   DOWN   │  RIGHT   │    "     │
-            &kp PGDOWN  &kp CARET  &kp PRCNT  &kp LPAR  &kp RPAR       &kp STAR    &kp LEFT    &kp DOWN    &kp RIGHT   &kp DQT
+            &kp PG_DOWN  &kp CARET  &kp PRCNT  &kp LPAR  &kp RPAR       &kp STAR    &kp LEFT    &kp DOWN    &kp RIGHT   &kp DQT
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
         //│          │   #      │   @      │    [     │   ]      │   │   =      │   -      │  +       │   |      │    \     │
             &kp ESC   &kp HASH   &kp AT     &kp LBKT  &kp RBKT       &kp EQUAL  &kp MINUS   &kp PLUS   &kp PIPE     &kp BSLH
